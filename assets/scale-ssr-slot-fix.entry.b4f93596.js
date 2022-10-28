@@ -1,2 +1,0 @@
-var i=Object.defineProperty;var t=(r,o)=>i(r,"name",{value:o,configurable:!0});import{r as l,h as s,H as e}from"./preview.f169cf2b.js";import"./index.0b284fb1.js";import"./iframe.b9fa3d0f.js";import"./es.map.constructor.67ab86e5.js";import"./decorateStory.77a46e65.js";import"./vue.esm-bundler.be6c6897.js";const _=t(class{constructor(r){l(this,r)}render(){return s(e,null,s("slot",null))}},"SsrSlotFix");export{_ as scale_ssr_slot_fix};
-//# sourceMappingURL=scale-ssr-slot-fix.entry.b4f93596.js.map
